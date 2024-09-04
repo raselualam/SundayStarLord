@@ -30,8 +30,10 @@ public class DataTypes {
 		byte g = 123;
 		float h = 1.23F;
 		double i = 12.34;
-		char j = 'A';
-		boolean k = false;
+		char j = 'X';
+		boolean k = true;
+		
+		
 	}
 
 }
