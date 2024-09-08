@@ -31,9 +31,6 @@ public class DataTypes {
 		float h = 1.23F;
 		double i = 12.34;
 		char j = 'X';
-		boolean k = true;
-		
-		
+		boolean k = false;
 	}
-
 }
